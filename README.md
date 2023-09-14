@@ -6,5 +6,6 @@
 
 ### to execute
     1. Go on a terminal
-    2. Type "javac learnByRepeating.java"
-    3. Then "java learnByRepeating".
+    2. With the command cd go to your learnByRepeating directory 
+    3. Type "javac learnByRepeating.java"
+    4. Then "java learnByRepeating".
