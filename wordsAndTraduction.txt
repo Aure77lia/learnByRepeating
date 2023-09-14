@@ -1,1 +1,20 @@
-test1.test2
+guten Tag.bonjour
+hallo.salut
+GrüB Gott.bonjour
+Servus.bonjour
+auf wiedersehen.au revoir
+tschuss.salut
+das Haus.la maison
+die Wohnung.l'appartement
+der Balkon.le balcon
+das Fenster.la fenetre
+die Tür.la porte
+die Klingel.la sonnette
+der Mann.l'homme
+die Frau.la femme
+das Kind.le garcon
+das Auto.la voiture
+der Vogel.l'oiseau
+der Hund.le chien
+das Handy.le telephone
+die Lampe.la lampe
