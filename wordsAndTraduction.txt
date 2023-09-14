@@ -1,7 +1,6 @@
-guten Tag.bonjour
+guten Tag.bonjour.gruB gott.Servus
 hallo.salut
-auf wiedersehen.au revoir
-tschuss.ciao
+auf wiedersehen.au revoir.tschuss
 das Haus.la maison
 die Wohnung.l'appartement
 der Balkon.le balcon
