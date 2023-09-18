@@ -1,0 +1,22 @@
+Vegetarier.vegetarien
+le fromage.der Käse
+schmeckt gut.bon gout.est bon
+das Gemüse.les legumes
+die Suppe.la soupe
+die Schokolade.le chocolat
+der Kuchen.le gateau
+süB.sucree.doux
+Obst.les fruits
+der Saft.le jus
+der Saft ist süB.le jus est sucree
+der Zucker.le sucre
+die Erdbeere.la fraise
+ist das Brot frisch?.est ce que le pain est frais?
+das Essen.le repas
+lecker.delicieux
+frisch.frais
+die Kartoffel.la pomme de terre
+das Öl.l'huile
+die Wurst.la saucisse.saucisson
+das salz.le sel
+der Reis.le riz

@@ -9,7 +9,8 @@ die Tür.la porte
 die Klingel.la sonnette
 der Mann.l'homme
 die Frau.la femme
-das Kind.le garcon
+das Kind.l'enfant
+der Junge.le garcon
 das Auto.la voiture
 der Vogel.l'oiseau
 der Hund.le chien

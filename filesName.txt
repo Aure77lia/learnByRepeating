@@ -1,0 +1,2 @@
+dehors.txt
+nourriture.txt
