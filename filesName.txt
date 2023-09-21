@@ -1,2 +1,3 @@
+pays.txt
 dehors.txt
 nourriture.txt
