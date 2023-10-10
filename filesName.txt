@@ -1,3 +1,6 @@
 pays.txt
 dehors.txt
 nourriture.txt
+tout.txt
+toutlesjours.txt
+chiffres.txt

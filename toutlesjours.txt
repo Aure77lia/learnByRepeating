@@ -1,0 +1,27 @@
+schade.dommage
+toll.super
+freut mich.enchante
+der Kurs.cours
+Sportkurs.cours de sport
+fröhlich.joyeux
+traurig.triste
+aggressiv.agressif
+Max ist der Sohn von Lisa.Max est le fils de Lisa
+Lisa ist die Mutter von Max.Lisa est la mere de Max
+der Lehrer.le professeur
+die Lehrerin.La professeure
+Ahmed ist der Sportlehrer.Ahmed est le professeur de sport
+Wie heißt du?.Comment t‘appelles-tu ?
+Wer bist du?.Qui es-tu ?
+wo?.ou?
+Wo wohnst du?.ou habites-tu?
+woher?.d’ou?
+Woher kommst du?.D'ou viens-tu?
+wer?.qui?
+Wer bist du?.Qui es-tu?
+ganz nah.tout pres
+die Woche.la semaine
+Bis nächste Woche!.A la semaine prochaine!
+die Straße.la rue
+Ich wohne in der Hugostraße in Paris.J'habite rue Hugo a Paris
+Dauphine ist am Tassignyplatz.Dauphine est place Tassigny

@@ -1,0 +1,33 @@
+sein.etre
+wohnen.habiter
+ich wohne.j'habite
+du wohnst.tu habites
+er wohnt.il habite
+sie wohnt.elle habite
+es wohnt.iel habite
+wir wohnen.nous habitons
+ihr wohnt.vous habitez
+sie wohnen.ils habitent
+Sie wohnen.Vous habitez
+heiBen.s'appeller
+ich heiBe.je m'appelle
+du heiBt.tu t'appelles
+er heiBt.il s'appelle
+sie heiBt.elle s'appelle
+es heiBt.iel s'appelle
+wir heiBen.nous nous appellons
+ihr heiBt.vous vous appelez
+sie heiBen.ils s'appellent
+Sie heiBen.Vous vous appelez
+Max und Lisa heiBen Vogel.Max et Lisa s'appellent Vogel
+Sie kommen aus Frankfurt.Ils viennt de Francfort
+Sie wohnen in Köln.Ils habitent a Köln
+ich bin.je suis
+du bist.tu es
+er ist.il est
+sie ist.elle est
+es ist.iel est
+wir sind.nous sommes
+ihr seid.vous etes
+sie seid.ils sont
+Sie sind.Vous etes
