@@ -1,6 +1,6 @@
 pays.txt
 dehors.txt
 nourriture.txt
-tout.txt
 toutlesjours.txt
+verbes.txt
 chiffres.txt
