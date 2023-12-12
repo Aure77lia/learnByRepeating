@@ -21,7 +21,7 @@ sie heiBen.ils s'appellent
 Sie heiBen.Vous vous appelez
 Max und Lisa heiBen Vogel.Max et Lisa s'appellent Vogel
 Sie kommen aus Frankfurt.Ils viennt de Francfort
-Sie wohnen in Köln.Ils habitent a Köln
+Sie wohnen in Koln.Ils habitent a Koln
 ich bin.je suis
 du bist.tu es
 er ist.il est

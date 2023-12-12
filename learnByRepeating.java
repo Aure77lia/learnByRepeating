@@ -48,7 +48,7 @@ public class learnByRepeating{
 
 	//Ask user to choose theme among thebtheme in fileName
 	public String chooseYourTheme(){
-		System.out.println("Choose your theme among those below, to exit program type 0");
+		System.out.println("Choose your theme among those below, to exit program type 0, to choose all themes type \"tout\" ");
 		for(String e : this.themes){
 			System.out.print(e.replace(".txt","") + " ");
 		}
@@ -63,7 +63,11 @@ public class learnByRepeating{
 			if (this.themes.contains(e+".txt")){
 				return e+".txt";
 			}else{
-				System.out.println("the theme you have chosen does not exist, exiting app.");
+				if (e.equals("tout")){
+					return e;
+				}else{
+					System.out.println("the theme you have chosen does not exist, exiting app.");
+				}
 			}
 		}
 		//return value null if exit code
@@ -102,7 +106,15 @@ public class learnByRepeating{
 		this.theme();
 		String theme = this.chooseYourTheme();
 		if(theme != null){
-			this.readFile(theme);
+			if (theme.equals("tout")){
+				for (String t : this.themes){
+					//System.out.println(t);
+					this.readFile(t);
+
+				}
+			}else{
+				this.readFile(theme);
+			}
 			this.randomWords();
 		}
 	}

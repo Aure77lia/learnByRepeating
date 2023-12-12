@@ -11,17 +11,24 @@ Lisa ist die Mutter von Max.Lisa est la mere de Max
 der Lehrer.le professeur
 die Lehrerin.La professeure
 Ahmed ist der Sportlehrer.Ahmed est le professeur de sport
-Wie heißt du?.Comment t‘appelles-tu ?
+Wie heiBt du?.Comment t'appelles-tu ?
 Wer bist du?.Qui es-tu ?
 wo?.ou?
 Wo wohnst du?.ou habites-tu?
-woher?.d’ou?
+woher?.d'ou?
 Woher kommst du?.D'ou viens-tu?
 wer?.qui?
 Wer bist du?.Qui es-tu?
 ganz nah.tout pres
 die Woche.la semaine
 Bis nächste Woche!.A la semaine prochaine!
-die Straße.la rue
-Ich wohne in der Hugostraße in Paris.J'habite rue Hugo a Paris
+die StraBe.la rue
+Ich wohne in der Hugostraße in Paris.J'habite rue Hugo dans Paris
 Dauphine ist am Tassignyplatz.Dauphine est place Tassigny
+der Wohnort.le lieu d'habitation
+die E-Mail.un email
+Telefon.telephone fixe
+Handy.telephone portable
+buchstabieren.epeler
+Wie alt sind Sie?.Quel age avez-vous?
+Ich bin dreiundswanzig Jahre alt.J'ai 23 ans

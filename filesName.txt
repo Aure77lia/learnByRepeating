@@ -1,8 +1,10 @@
 pays.txt
 dehors.txt
 nourriture.txt
-tout.txt
 toutlesjours.txt
 chiffres.txt
 interrogatif.txt
 heure.txt
+verbes.txt
+chiffres.txt
+
