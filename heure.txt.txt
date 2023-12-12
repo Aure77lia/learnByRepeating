@@ -1,0 +1,7 @@
+8:30 Uhr.Es ist halb neun
+7:15 Uhr.Es ist Viertel nach sieben
+5:05 Uhr.Es ist fünf nach fünf
+10:40 Uhr.Es ist zehn nach halb elf
+19:45 Uhr.Es ist Viertel vor acht
+Es ist kurz vor.Il est juste avant
+Es ist kurz nach.Il est juste apres

@@ -4,3 +4,5 @@ nourriture.txt
 tout.txt
 toutlesjours.txt
 chiffres.txt
+interrogatif.txt
+heure.txt

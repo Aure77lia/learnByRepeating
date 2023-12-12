@@ -1,0 +1,18 @@
+wer ?.qui ?
+was ?.quoi ?.que ?
+wann ?.quand ?
+wo ?.où ?
+wohin ?.vers où ?
+woher ?.de où ?
+wie ?.comment ?
+wie viel ?.combien ?
+warum ?.pourquoi ?
+Wohnst du in Nurnberg ?.Habites-tu a Nurnberg ?
+Wo wohnen Sie ?.Ou habitez-Vous ?
+Wie heißen Sie ? .Comment Vous appellez-vous?
+Wie ist Ihr Name?.Quel est votre nom?
+Wie ist Ihr Vorname?.Quel sont vos prenoms ?
+Wie ist Ihr Nachname ?.Wie ist Ihr Familienname ?.Quel sont vos noms de famille ?
+Wie alt sind Sie?.Quel age avez-vous?
+Woher kommen Sie?.D’où venez-vous?
+Wo wohnen Sie?.Où habitez-vous?
